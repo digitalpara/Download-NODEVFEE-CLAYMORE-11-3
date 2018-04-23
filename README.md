@@ -3,7 +3,7 @@ Executable is patched so you don't have to do anything, just start mining,
 
 download : https://mirrorace.com/m/1qwo2
 
-This is a Claymore v10.3 Ethereum/DCR dual miner with dev fee removed.
+This is a Claymore v11.3 Ethereum/DCR dual miner with dev fee removed.
 
 
 Executable is patched so you don't have to do anything, just start mining.
