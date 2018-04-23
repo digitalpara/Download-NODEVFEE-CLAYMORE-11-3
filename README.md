@@ -1,6 +1,10 @@
 # Download-NODEVFEE-CLAYMORE-11-3
-Executable is patched so you don't have to do anything, just start mining, download : https://mirrorace.com/m/1qwo2
+Executable is patched so you don't have to do anything, just start mining, 
+
+download : https://mirrorace.com/m/1qwo2
+
 This is a Claymore v10.3 Ethereum/DCR dual miner with dev fee removed.
+
 
 Executable is patched so you don't have to do anything, just start mining.
 
@@ -12,4 +16,6 @@ How will I know this is working? In your pool You will see a new worker named "c
 
 Does this work for future releases of Claymore ? No, I will manually update future Claymore releases.
 
-I'm getting lower hashrate with your Claymore than original. Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to Claymore 10.3 No Fee
+I'm getting lower hashrate with your Claymore than original. 
+
+Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to Claymore 11.3 No Fee
